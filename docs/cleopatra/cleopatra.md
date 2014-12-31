@@ -351,7 +351,7 @@ here, the screenshot denotes the display of all modules available under Cleopatr
 
     DummyLinuxModule - Dummy Linux Module
     ApacheConf - Apache Conf - Install a Apache Configuration
- ApacheModules - Apache Modules - Commonly used modules for Apache
+    ApacheModules - Apache Modules - Commonly used modules for Apache
     ApacheReverseProxyModules - Apache Reverse Proxy Modules - Reverse Proxy/Load Balancer Modules for Apache
     ApacheServer - Apache Server - Install or remove the Apache Server
     Apt - Add, Remove or Modify Apts
