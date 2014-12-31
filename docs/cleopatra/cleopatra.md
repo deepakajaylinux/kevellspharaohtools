@@ -1,3 +1,6 @@
+Cleopatra
+----------
+
 The Cleopatra is an automation drive that allows DevOps Engineers, system administrators, infrastructure managers in performing the Configuration Management, Systems Automation and Infrastructure with the aid of php. It provisions the entire projects of the users automatically.
 
 This can also be used for providing packages and configuration files to your projects. It ensures the environment stability of your project.
@@ -426,7 +429,7 @@ here, the screenshot denotes the display of all modules available under Cleopatr
     PHPUnit - PHP Unit - The PHP Implementation of the XUnit Unit Testing standard
     PackageManager - Native Package Manager Wrapper - Install OS neutral packages
     PapyrusEditor - Papyrus Editor Web Interface
-Parallax - Parallax - Execute commands in parallel
+    Parallax - Parallax - Execute commands in parallel
     Pear - Pear Package Manager
     Phake - Phake - The PHP task creation tool (Make/Rake)
     PharaohTools - Pharaoh Tools - Gotta Install them all
@@ -501,7 +504,7 @@ The screenshot shown under explains the usage of the module ApacheConf under Cle
         ******************************
 
 
-                                                                                                                        76,1          25%
+                                                                                                        
 
                                                  
                                               
