@@ -1,0 +1,9 @@
+site_name: http://pharaohtools.readthedocs.org
+include_search: true
+theme_dir: ./theme/mkdocs/
+theme_center_lead: false
+pages:
+- [index.md, Home]
+- [cleopatra/cleopatra.md, Cleopatra]
+- [phlagrant/phlagrant.md, Phlagrant]
+theme:  ghostwriter
