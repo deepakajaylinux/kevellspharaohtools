@@ -22,7 +22,7 @@ It is extensible, as if any of the extra modules is required the users can frame
 And also it is easier to rewrite the code as per the needs of the users.
 Its documentation includes the Cleopatra's current released version as 1.1.1.
 
-pre-requirements:
+pre-requirements
 -----------------
 
 Before installing the Cleopatra to your machine, ensure whether git and php5 exists in your machine or not.
@@ -50,19 +50,19 @@ php:
 
 after completion of git and php5 installation, let's see how to install the Cleopatra in your machine.
 
-For Mac, Linux or Unix:
+For Mac, Linux or Unix
 -----------------------
 It is simple by using the coding,
 
         git clone https://github.com/PharaohTools/cleopatra.git && sudo php cleopatra/install-silent
 
-For Windows:
+For Windows
 ------------
 It is simple, get the terminal open via the option "Run as Administrator", and then apply the following coding,
         
         git clone https://github.com/PharaohTools/cleopatra.git && php cleopatra\install-silent
-                                                                                                                             40,1-8        Bot
-Available Modules:
+                                                                                                                            
+Available Modules
 ------------------
 
 DummyLinuxModule - Dummy Linux Module
@@ -315,7 +315,8 @@ Xvfb - Xvfb - The Display Manager Solution
 
 Yum - Add, Remove or Modify Yum Packages
 
-How to Use:
+
+How to Use
 -----------
 
 Let us see, how to use the Cleopatra tool,
@@ -476,7 +477,7 @@ WinExe - Add, Remove or Modify WinExes
     ******************************
 
 
-The Help command:
+The Help command
 -----------------
 
 If you want to know the purpose of a particular module, just type the command as follows:
