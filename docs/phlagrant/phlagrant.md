@@ -12,17 +12,17 @@ The Phlagrant is extensible, as if any extra module is required the user can fra
 
 By using the functionality of templating option extra-templates can be added, if required. The SSH option enables to set a SSH key value. The SFTP facilitates readability and write ability between the two different OS using virtual box.
 
-Requirements:
+Requirements
 ------------
 
 If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality
 
-Code for installing virtual box:
+Code for installing virtual box
 -------------------------------
 
         sudo cleopatra virtualbox install --yes --guess --with-guest-additions
 
-Installation:
+Installation
 -------------
 
 There is two possible ways to install the Phlagrant tool to your machine:
@@ -30,7 +30,7 @@ There is two possible ways to install the Phlagrant tool to your machine:
 1)Installation via Cleopatra
 2)Installing Phlagrant alone
 
-Installation via Cleopatra:
+Installation via Cleopatra
 ---------------------------
 
 if you have Cleopatra tool in your machine, then it's simple to install the phlagrant by using the code as given below
@@ -39,7 +39,7 @@ if you have Cleopatra tool in your machine, then it's simple to install the phla
 
 here the word guess can be ignored while selecting your own directory during installation.
 
-Installing Phlagrant alone:
+Installing Phlagrant alone
 ---------------------------
 
 If you want to install the phlagrant tool to your machine without depending on the Cleopatra tool, it is easier by using the command,
@@ -54,8 +54,8 @@ the command on the above mentioned can be used if you don't want to select the l
 
         git clone http://github.com/PharaohTools/phlagrant && sudo php phlagrant/install
 
-                                                                                                                             42,0-1        Bot
-Methodologies in usage:
+                                                                                                                             
+Methodologies in usage
 -----------------------
 
 Here, let us see how to use the commands under the tool and its usage.
@@ -82,7 +82,7 @@ As shown in the below screenshot, you will get the display of all the modules av
 
     -------------------------------------------------------------
 
-    Available Commands:
+    Available Commands
     ---------------------------------------
 
     AutoSSH - AutoSSH - Use your Papyrus details to automatically SSH or SFTP into your Phlagrant box
@@ -104,7 +104,7 @@ As shown in the below screenshot, you will get the display of all the modules av
     ******************************
 
 
-Help command:
+Help command
 -------------
 
 It's simple to use the help command,
@@ -141,7 +141,7 @@ The below screenshot explains you how the help command is used to explain the mo
     End Help
     ******************************
 
-Brief Example:
+Brief Example
 -------------
 
 let's see about a short example regarding the phlagrant here.
