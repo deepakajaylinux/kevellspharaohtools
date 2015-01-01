@@ -39,7 +39,6 @@ php:
                 apt-get install php
 
 command to install git and php5 in cent OS:
--------------------------------------------
 
 git:
 
